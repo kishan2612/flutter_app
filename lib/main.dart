@@ -1,7 +1,8 @@
+import 'package:ck_pos_package/main.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_package/flutter_package.dart';
 
-void main() => runApp(MyApp());
+void main() => CkPosPackage().initiateApp();
 
 class MyApp extends StatelessWidget {
   // This widget is the root of your application.

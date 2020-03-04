@@ -13,6 +13,8 @@ dependencies:
   cupertino_icons: ^0.1.2
   flutter_package:
     git: https://github.com/kishan2612/test_private_keyboard
+  ck_pos_package:
+    git: https://kishan_nowapps@bitbucket.org/kishan_nowapps/ck_pos_package.git
 
 dev_dependencies:
   flutter_test:
